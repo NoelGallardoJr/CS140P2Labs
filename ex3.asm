@@ -13,7 +13,7 @@
 
 main:
 
- lw $t0, fval
+ lw $t0, fvalgi
  lw $t1, gval
  lw $t2, hval
 
